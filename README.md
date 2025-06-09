@@ -5,6 +5,25 @@ Welcome to **FirstAppWith-ThreeTierArchitecture** – a clean, modular project t
 This is not just a simple CRUD project. It’s a solid foundation for scalable, maintainable, and testable applications built using industry-standard practices.
 
 ---
+🛠️ Technologies Used
+
+- C# (.NET)
+
+- Three-Tier Architecture
+
+- Repository Pattern
+
+## 📌 Why Three-Tier Architecture?
+
+- 🔁 Reusability
+
+- 🧪 Testability
+
+- ♻️ Maintainability
+
+- 📏 Scalability
+
+- 🧩 Loose coupling between components
 
 ## 🚀 Features
 
